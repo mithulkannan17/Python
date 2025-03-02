@@ -1,0 +1,3 @@
+1. program to take user value and print the multiplication table for it. Use looping and break conditions.
+2. program to take user value and perform a simple calculator using match-case condition.
+3. program to 
